@@ -13,11 +13,11 @@
       </li>
       <li class="menu-header">Administrator</li>
       <li class="{{ request()->routeIs('dashboard.category.*') ? 'active' : '' }}"><a
-          href="{{ route('dashboard.category.index') }}" class="nav-link"><i class="far fa-user"></i><span>Data
+          href="{{ route('dashboard.category.index') }}" class="nav-link"><i class="far fa-list-alt"></i><span>Data
             Category</span></a>
       </li>
       <li class="{{ request()->routeIs('dashboard.food.*') ? 'active' : '' }}"><a
-          href="{{ route('dashboard.food.index') }}" class="nav-link"><i class="fas fa-book"></i><span>Data
+          href="{{ route('dashboard.food.index') }}" class="nav-link"><i class="fas fa-bacon"></i><span>Data
             Makanan</span></a>
       </li>
     </ul>
