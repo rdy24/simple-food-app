@@ -53,4 +53,4 @@ Pada desain diatas terdapat sebuah relasi one to many dari tabel categories ke t
     php artisan serve
     ```
 ## Dokumentasi API
-https://www.postman.com/satellite-geoscientist-31068952/workspace/my-workspace/collection/18549255-e5ecb352-e36d-4522-8503-78b03180f777?action=share&creator=18549255
+https://www.postman.com/satellite-geoscientist-31068952/workspace/my-public-workspace/collection/18549255-e5ecb352-e36d-4522-8503-78b03180f777?action=share&creator=18549255
